@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://surexend.vercel.app"><img src="https://img.shields.io/badge/LIVE-SureXend-00C853?style=for-the-badge&label=Ship&labelColor=1B5E20" /></a>
+  <a href="https://surexend.com"><img src="https://img.shields.io/badge/LIVE-SureXend-00C853?style=for-the-badge&label=Ship&labelColor=1B5E20" /></a>
   <a href="mailto:officialemman876@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Archsec-Emman?tab=repositories"><img src="https://img.shields.io/badge/Repos-Browse-181717?style=for-the-badge&logo=github" /></a>
 </p>
@@ -16,7 +16,7 @@ I work on both sides of the wire: **building** full-stack financial systems and 
 
 **What that looks like right now:**
 
-- **Shipping [SureXend](https://github.com/Archsec-Emman/surexend)** — a stablecoin remittance super-app for Africa: Circle CCTP cross-chain settlement, 42 African currencies, bill payments, KYC, passkey auth. Live at [surexend.vercel.app](https://surexend.vercel.app)
+- **Co-building [SureXend](https://surexend.com)** — a stablecoin remittance super-app for Africa: Circle CCTP cross-chain settlement, 42 African currencies, bill payments, KYC, passkey auth. Live in production at [surexend.com](https://surexend.com)
 - **Building the red-team arsenal** — [Nemesis](https://github.com/Archsec-Emman/Nemesis) (LLM-driven autonomous pentesting platform), [403-Killchain](https://github.com/Archsec-Emman/403-Killchain), [XSS-Tesseract](https://github.com/Archsec-Emman/XSS-Tesseract)
 - **Engineering quant infrastructure** — [Financial-Orchestrator](https://github.com/Archsec-Emman/Financial-Orchestrator) (37 AI agents · 100+ market-data connectors · 16 broker integrations), [Prediction-Engine](https://github.com/Archsec-Emman/Prediction-Engine) (Polymarket/Kalshi oracle), [Conductor](https://github.com/Archsec-Emman/Conductor) (transformer foundation model for candlestick forecasting)
 
@@ -26,18 +26,18 @@ I work on both sides of the wire: **building** full-stack financial systems and 
 
 ### Featured Work
 
-<a href="https://github.com/Archsec-Emman/surexend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Archsec-Emman&repo=surexend&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/Archsec-Emman/Nemesis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Archsec-Emman&repo=Nemesis&theme=github_dark&hide_border=true" />
 </a>
-
 <a href="https://github.com/Archsec-Emman/Financial-Orchestrator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Archsec-Emman&repo=Financial-Orchestrator&theme=github_dark&hide_border=true" />
 </a>
+
 <a href="https://github.com/Archsec-Emman/Prediction-Engine">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Archsec-Emman&repo=Prediction-Engine&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/Archsec-Emman/403-Killchain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Archsec-Emman&repo=403-Killchain&theme=github_dark&hide_border=true" />
 </a>
 
 ---
@@ -49,7 +49,7 @@ I work on both sides of the wire: **building** full-stack financial systems and 
 | **Offensive Security** | Nemesis · archphish · 403-Killchain · XSS-Tesseract |
 | **Defensive Security** | Agentic-Blue-Team — AI SOC: alert triage, enrichment & response agents |
 | **Quant / Trading** | Financial-Orchestrator · Prediction-Engine · Conductor · convergence-validator |
-| **Full-Stack / Fintech** | SureXend · EduTrack Dashboard · Realtime Labeling Tool |
+| **Full-Stack / Fintech** | [SureXend](https://surexend.com) · EduTrack Dashboard · Realtime Labeling Tool |
 
 ---
 
